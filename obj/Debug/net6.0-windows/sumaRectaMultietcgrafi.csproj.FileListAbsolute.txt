@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\bin\Debug\net6.0-windows\sumaRectaMultietcgrafi.exe
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\bin\Debug\net6.0-windows\sumaRectaMultietcgrafi.deps.json
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\bin\Debug\net6.0-windows\sumaRectaMultietcgrafi.runtimeconfig.json
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\bin\Debug\net6.0-windows\sumaRectaMultietcgrafi.dll
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\bin\Debug\net6.0-windows\sumaRectaMultietcgrafi.pdb
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\sumaRectaMultietcgrafi.Form1.resources
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\sumaRectaMultietcgrafi.Properties.Resources.resources
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\sumaRectaMultietcgrafi.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\sumaRectaMultietcgrafi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\sumaRectaMultietcgrafi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\sumaRectaMultietcgrafi.AssemblyInfo.cs
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\sumaRectaMultietcgrafi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\sumaRectaMultietcgrafi.dll
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\refint\sumaRectaMultietcgrafi.dll
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\sumaRectaMultietcgrafi.pdb
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\sumaRectaMultietcgrafi.genruntimeconfig.cache
+C:\Users\HP\Desktop\todo\C#-pru\sumaRectaMultietcgrafi\obj\Debug\net6.0-windows\ref\sumaRectaMultietcgrafi.dll
